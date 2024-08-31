@@ -1,0 +1,26 @@
+{
+"font":{
+    "title":"fonts/HuiFont29.ttf",
+    "date":"fonts/WordFont.TTC",
+    "content":"fonts/WordFont.TTC"
+},
+"position":{
+    "title":[290,265],
+    "date":[695,845],
+    "content":{
+        "first":[540,605],
+        "middle":[540,560],
+        "last":[540,525]}
+},
+"size":{
+    "title":45,
+    "date":45,
+    "content":40
+},
+"background":{
+    "first":"backgrounds/first.png",
+    "middle":"backgrounds/middle.png",
+    "last":"backgrounds/last.png",
+    "both":"backgrounds/both.png"
+}
+}
