@@ -172,5 +172,5 @@ async def logout(ctx):
     posts[id].logout()
     del posts[id]
 
-
-client.run('MTI3OTM4MTkwMzE0NDY1Mjg3MA.GiFac3.PWtV19zdKj2j-khSo3T7yCcf1s19SGJIxwToVw')
+with open(abspath('token.txt')) as file:
+    client.run(file.read())
